@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI-native SDLC"
+  short_description: "Dari ide ke kode teruji dengan alur SDLC"
+  default_prompt: "Gunakan $ai-native-sdlc untuk menilai repo ini lalu implementasikan perubahan yang saya minta beserta bukti verifikasinya."
